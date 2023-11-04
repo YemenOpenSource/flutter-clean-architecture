@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 <h1>What is clean architecture ?</h1>
 Separates your application code into layers and  these layers define the Separation of Concerns inside the codebase.
 
